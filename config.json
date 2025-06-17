@@ -1,7 +1,7 @@
 {
 	"1": {
 		"the_loai": "Country Songs",
-		"driver_url": "data/Country.json"
+		"driver_url": "https://github.com/tuanjp93/Schedule/blob/main/Country.json"
 	},
 	"2": {
 		"the_loai": "Common (All)",
