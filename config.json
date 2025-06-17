@@ -13,15 +13,15 @@
 	},
 	"4": {
 		"the_loai": "Kênh Oaxaca & Guerrero",
-		"driver_url": "Live Chilenas.json"
+		"driver_url": "Oaxaca_Guerrero.json"
 	},
 	"5": {
 		"the_loai": "Kênh Sonidos Mexicanos",
-		"driver_url": "Live Sonidos.json"
+		"driver_url": "Sonidos Mexicanos.json"
 	},
 	"6": {
 		"the_loai": "Kênh Trivela Mexicanos",
-		"driver_url": "Live Trivela.json"
+		"driver_url": "Trivela_Mexicanos.json"
 	},
 	"7": {
 		"the_loai": "Dự Phòng",
