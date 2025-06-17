@@ -1,30 +1,30 @@
 {
 	"1": {
 		"the_loai": "Country Songs",
-		"driver_url": "https://github.com/tuanjp93/Schedule/blob/main/Country.json"
+		"driver_url": "Country.json"
 	},
 	"2": {
 		"the_loai": "Common (All)",
-		"driver_url": "data/Common_All.json"
+		"driver_url": "Common_All.json"
 	},
 	"3": {
 		"the_loai": "Viva La Musica",
-		"driver_url": "data/Viva la Musica.json"
+		"driver_url": "Viva la Musica.json"
 	},
 	"4": {
 		"the_loai": "Kênh Oaxaca & Guerrero",
-		"driver_url": "data/Live Chilenas.json"
+		"driver_url": "Live Chilenas.json"
 	},
 	"5": {
 		"the_loai": "Kênh Sonidos Mexicanos",
-		"driver_url": "data/Live Sonidos.json"
+		"driver_url": "Live Sonidos.json"
 	},
 	"6": {
 		"the_loai": "Kênh Trivela Mexicanos",
-		"driver_url": "data/Live Trivela.json"
+		"driver_url": "Live Trivela.json"
 	},
 	"7": {
 		"the_loai": "Dự Phòng",
-		"driver_url": "data/All_Du_Phong.json"
+		"driver_url": "All_Du_Phong.json"
 	}
 }
