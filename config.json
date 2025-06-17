@@ -1,0 +1,30 @@
+{
+	"1": {
+		"the_loai": "Country Songs",
+		"driver_url": "https://drive.google.com/file/d/1onnJJ2wsTR9zSTlwmU3teG1xbYJgZQhX"
+	},
+	"2": {
+		"the_loai": "Common (All)",
+		"driver_url": "https://drive.google.com/file/d/1BSlwUHfLeMd1a8gmv4lh6wwZFFTNOXif"
+	},
+	"3": {
+		"the_loai": "Viva La Musica",
+		"driver_url": "https://drive.google.com/file/d/1hf6qsL-A7ByMSL8FhWdZ0L1lyi1oHlTs"
+	},
+	"4": {
+		"the_loai": "Kênh Oaxaca & Guerrero",
+		"driver_url": "https://drive.google.com/file/d/1gKMWqp3caqxqZc3KKb0r-BKm6AGQlMrm"
+	},
+	"5": {
+		"the_loai": "Kênh Sonidos Mexicanos",
+		"driver_url": "https://drive.google.com/file/d/1eCGZ0E4kNZhs69AFcDiVk9vHNV8m3MEq"
+	},
+	"6": {
+		"the_loai": "Kênh Trivela Mexicanos",
+		"driver_url": "https://drive.google.com/file/d/1Rq2p3f00GGy3sGYhnmReMw4PYqtyEWva"
+	},
+	"7": {
+		"the_loai": "Dự Phòng",
+		"driver_url": "https://drive.google.com/file/d/1JmQF-bmNrE812kaJ9YJ8EPwnw90chz0z"
+	}
+}
