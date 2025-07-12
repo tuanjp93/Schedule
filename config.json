@@ -26,5 +26,9 @@
 	"7": {
 		"the_loai": "Dự Phòng",
 		"driver_url": "All_Du_Phong.json"
+	},
+		"8": {
+		"the_loai": "Ritmo Mexicanos",
+		"driver_url": "Ritmo Mexicanos.json"
 	}
 }
