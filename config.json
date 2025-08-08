@@ -28,15 +28,16 @@
 		"driver_url": "All_Du_Phong.json"
 	},
 		"8": {
-		"the_loai": "Ritmo Mexicanos",
-		"driver_url": "Ritmo Mexicanos.json"
+		"the_loai": "T-TimelessDesign",
+		"driver_url": "T-TimelessDesign.json"
 	},
 		"9": {
 		"the_loai": "Mexicanos 8386",
 		"driver_url": "Mexicanos8386.json"
 	},
 			"10": {
-		"the_loai": "Bui Noo",
-		"driver_url": "BuiNoo.json"
+		"the_loai": "Banda Exitos",
+		"driver_url": "BandaExitos.json"
 	}
 }
+
