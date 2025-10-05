@@ -38,6 +38,11 @@
 			"10": {
 		"the_loai": "Banda Exitos",
 		"driver_url": "BandaExitos.json"
+	},
+				"11": {
+		"the_loai": "Hà Lan 1",
+		"driver_url": "HL_1..json"
 	}
 }
+
 
