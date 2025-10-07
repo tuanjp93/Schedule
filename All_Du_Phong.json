@@ -15,46 +15,6 @@
         "stream_key": "",
         "schedule_time": ""
     },
-    "12": {
-        "title": "Conjunto Primavera 1",
-        "link": "https://drive.google.com/file/d/15oXeFiPn0ISGnEHqCXIxidBDf2y1R1hZ",
-        "stream_name": "",
-        "stream_key": "",
-        "schedule_time": "",
-        "last_live": "2025-06-16"
-    },
-    "13": {
-        "title": "Corridos_Mix_Full_4",
-        "link": "https://drive.google.com/file/d/1mQJ602vRTEIEPKh5Nr5I3BVgOTxJZNoR",
-        "stream_name": "",
-        "stream_key": "hp5j-pp93-jfyb-gvvg-886v",
-        "last_live": "2025-10-07",
-        "schedule_time": ""
-    },
-    "14": {
-        "title": "Corridos_Mix_Full_8",
-        "link": "https://drive.google.com/file/d/1wTR3dOP2Xfe2XFBgVeEXBhY5RXICA0qS",
-        "last_live": "",
-        "stream_name": "",
-        "stream_key": "",
-        "schedule_time": ""
-    },
-    "15": {
-        "title": "Corridos_Mix_Full_15",
-        "link": "https://drive.google.com/file/d/1dw8fYuYmWZQvdWej2qIq0DBTVQvoVFJJ",
-        "last_live": "",
-        "stream_name": "",
-        "stream_key": "",
-        "schedule_time": ""
-    },
-    "16": {
-        "title": "Corridos_Mix_Full_16",
-        "link": "https://drive.google.com/file/d/1MmIDHBP1OeHER_odb88FPTpdlHIiKC8L",
-        "last_live": "",
-        "stream_name": "",
-        "stream_key": "",
-        "schedule_time": ""
-    },
     "21": {
         "title": "Banda Romanticas 1",
         "link": "https://drive.google.com/file/d/1Dmnk3EUhsMRvOu6QfDEzNkEGOraCpjYC",
@@ -149,38 +109,6 @@
         "stream_name": "",
         "stream_key": "",
         "last_live": "2025-07-16",
-        "schedule_time": ""
-    },
-    "33": {
-        "title": "Beto_Quintanilla_5000_29",
-        "link": "https://drive.google.com/file/d/1WhU0kATB2S0iy77EAefOttGkHP07zLXl",
-        "stream_name": "",
-        "stream_key": "yfpr-p1vv-12cf-qgzm-czmw",
-        "last_live": "2025-10-07",
-        "schedule_time": ""
-    },
-    "34": {
-        "title": "Beto_Quintanilla_5000_30",
-        "link": "https://drive.google.com/file/d/12o8jyxGgxF1ljQK1tqeo_ksj6KSy-bev",
-        "stream_name": "",
-        "stream_key": "",
-        "last_live": "2025-08-18",
-        "schedule_time": ""
-    },
-    "35": {
-        "title": "Chalino_Sanchez_9",
-        "link": "https://drive.google.com/file/d/1vAUPgnI_cJw3FhjAvokMUqGL5Qgs20p8",
-        "stream_name": "",
-        "stream_key": "",
-        "last_live": "2025-08-20",
-        "schedule_time": ""
-    },
-    "36": {
-        "title": "Chalino_Sanchez_10",
-        "link": "https://drive.google.com/file/d/17aTU91sdz5YmOEH_J2qbj7tzgeRevIW9",
-        "stream_name": "",
-        "stream_key": "",
-        "last_live": "2025-08-19",
         "schedule_time": ""
     },
     "37": {
