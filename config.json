@@ -27,23 +27,24 @@
 		"the_loai": "Dự Phòng",
 		"driver_url": "All_Du_Phong.json"
 	},
-		"8": {
+	"8": {
 		"the_loai": "T-TimelessDesign",
 		"driver_url": "T-TimelessDesign.json"
 	},
-		"9": {
+	"9": {
 		"the_loai": "Mexicanos 8386",
 		"driver_url": "Mexicanos8386.json"
 	},
-			"10": {
+	"10": {
 		"the_loai": "Banda Exitos",
 		"driver_url": "BandaExitos.json"
 	},
-				"11": {
+	"11": {
 		"the_loai": "Hà Lan 1",
 		"driver_url": "HL_1.json"
+	},
+	"12": {
+		"the_loai": "Radio 1977",
+		"driver_url": "Radio1977.json"
 	}
 }
-
-
-
