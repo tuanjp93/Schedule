@@ -40,11 +40,20 @@
 		"driver_url": "BandaExitos.json"
 	},
 	"11": {
-		"the_loai": "Hà Lan 1",
-		"driver_url": "HL_1.json"
+		"the_loai": "Hà Lan 3",
+		"driver_url": "HL_3.json"
 	},
 	"12": {
 		"the_loai": "Radio 1977",
 		"driver_url": "Radio1977.json"
+	},
+	"13": {
+		"the_loai": "Hà Lan 2",
+		"driver_url": "HL_2.json"
+	},
+	"14": {
+		"the_loai": "Hà Lan 4",
+		"driver_url": "HL_4.json"
 	}
 }
+
