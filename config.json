@@ -54,6 +54,11 @@
 	"14": {
 		"the_loai": "Hà Lan 4",
 		"driver_url": "HL_4.json"
+	},
+	"15": {
+		"the_loai": "Hà Lan 7",
+		"driver_url": "HL_7.json"
 	}
 }
+
 
