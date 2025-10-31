@@ -167,22 +167,6 @@
         "stream_key": "",
         "schedule_time": "20:09:00 12-06-2025"
     },
-    "33": {
-        "title": "Corridos Con Banda 10",
-        "link": "https://drive.google.com/file/d/1oMlS-mB8iIIzGPjMV9qNuQXtLx19HerJ",
-        "last_live": "2025-10-30",
-        "stream_name": "",
-        "stream_key": "",
-        "schedule_time": "20:01:00 17-06-2025"
-    },
-    "34": {
-        "title": "Corridos Con Banda 11",
-        "link": "https://drive.google.com/file/d/1Cu2Y62TaX5Wyt7aoZhA_X9iBq9wTyNM4",
-        "last_live": "2025-10-22",
-        "stream_name": "",
-        "stream_key": "",
-        "schedule_time": "20:01:00 17-06-2025"
-    },
     "35": {
         "title": "Corridos Con Banda 1",
         "link": "https://drive.google.com/file/d/1TOQU1Y9YznBt-l2h1i1ZSMI1x_imHJx7",
@@ -198,14 +182,6 @@
         "stream_name": "",
         "stream_key": "",
         "schedule_time": "20:10:00 12-06-2025"
-    },
-    "37": {
-        "title": "Corridos Con Banda 3",
-        "link": "https://drive.google.com/file/d/1CsRb6-ZK62CBH9eg8Ha9Nbu0qO-gse8Q",
-        "last_live": "2025-10-26",
-        "stream_name": "",
-        "stream_key": "",
-        "schedule_time": "20:20:00 12-06-2025"
     },
     "39": {
         "title": "El_Tigrillo_4",
