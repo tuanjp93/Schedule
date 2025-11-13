@@ -58,7 +58,9 @@
 	"15": {
 		"the_loai": "Hà Lan 7",
 		"driver_url": "HL_7.json"
+	},
+	"16": {
+		"the_loai": "Borring_History",
+		"driver_url": "Borring_History.json"
 	}
 }
-
-
