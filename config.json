@@ -3,10 +3,6 @@
 		"the_loai": "Country Songs",
 		"driver_url": "Country.json"
 	},
-	"2": {
-		"the_loai": "Common (All)",
-		"driver_url": "Common_All.json"
-	},
 	"3": {
 		"the_loai": "Viva La Musica",
 		"driver_url": "Viva la Musica.json"
@@ -22,10 +18,6 @@
 	"6": {
 		"the_loai": "Kênh Trivela Mexicanos",
 		"driver_url": "Trivela_Mexicanos.json"
-	},
-	"7": {
-		"the_loai": "Dự Phòng",
-		"driver_url": "All_Du_Phong.json"
 	},
 	"8": {
 		"the_loai": "T-TimelessDesign",
@@ -62,5 +54,33 @@
 	"16": {
 		"the_loai": "Borring_History",
 		"driver_url": "Borring_History.json"
+	},
+	"17": {
+		"the_loai": "Stille Waarheid (K10)",
+		"driver_url": "live1.json"
+	},
+	"18": {
+		"the_loai": "Verhalen van de Ziel (K11)",
+		"driver_url": "live2.json"
+	},
+	"19": {
+		"the_loai": "Křehké Vztahy (Séc 3)",
+		"driver_url": "live3.json"
+	},
+	"20": {
+		"the_loai": "Sakhon Lothong (Séc 4)",
+		"driver_url": "live4.json"
+	},
+	"21": {
+		"the_loai": "Za Zavřenými Dveřmi (Séc 7)",
+		"driver_url": "live5.json"
+	},
+	"22": {
+		"the_loai": "Zůstala Jsem Já (Sec 5)",
+		"driver_url": "live6.json"
+	},
+	"23": {
+		"the_loai": "Backup 1",
+		"driver_url": "live7.json"
 	}
 }
